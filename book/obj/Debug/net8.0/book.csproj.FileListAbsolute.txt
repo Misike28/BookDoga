@@ -1,0 +1,4 @@
+C:\Users\kovacs.mihaly\source\repos\book\obj\Debug\net8.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mihaly\source\repos\book\obj\Debug\net8.0\book.AssemblyInfoInputs.cache
+C:\Users\kovacs.mihaly\source\repos\book\obj\Debug\net8.0\book.AssemblyInfo.cs
+C:\Users\kovacs.mihaly\source\repos\book\obj\Debug\net8.0\book.csproj.CoreCompileInputs.cache
